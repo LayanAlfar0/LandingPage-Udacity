@@ -15,7 +15,7 @@ This project implements a dynamic single-page application with a navigation menu
 
 1. **Clone the repository**:
 
-   git clone https://github.com/your-username/landing-page-navigation.git
+   git clone https://github.com/LayanAlfar0/LandingPage-Udacity.git
 2. Navigate to the project directory:
  cd landing-page-navigation
 3. Open index.html in your browser to view the landing page.
